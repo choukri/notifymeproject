@@ -1,0 +1,14 @@
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/constants/TwilioConsts.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/services/MessageSenderService.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/services/impl/TwilioMessageSenderServiceImpl.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/services/responses/MessageSenderResponse.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/properties/TwilioProps.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/domains/twilio/TwilioClient.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/domains/twilio/VoiceDto.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/constants/MessageConsts.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/constants/PathConsts.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/config/BeanConfig.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/utils/LoggerUtil.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/services/impl/TwilioMessageSenderClient.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/SpringTwilioMessageSenderApplication.java
+/Users/region/notifymeproject/spring-twilio-message-sender-master/src/main/java/com/bsmooth/springtwiliomessagesender/controllers/MessageSenderController.java

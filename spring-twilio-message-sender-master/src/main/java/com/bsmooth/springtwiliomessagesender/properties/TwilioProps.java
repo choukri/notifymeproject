@@ -11,6 +11,8 @@ public class TwilioProps {
     private String fromNumber;
     private String whatsappNumber;
     private String twimlBinUrl;
+    private String credentialsPath;
+
 
     public String getAccountSid() {
         return accountSid;
@@ -50,5 +52,13 @@ public class TwilioProps {
 
     public void setTwimlBinUrl(String twimlBinUrl) {
         this.twimlBinUrl = twimlBinUrl;
+    }
+    
+    public String getCredentialsPath() {
+      return this.credentialsPath;
+    }
+
+    public void setCredentialsPath(String credentialsPath) {
+      this.credentialsPath = credentialsPath;
     }
 }
